@@ -1,2 +1,2 @@
-# PuriSRM
-PSRM. System for business
+*PSRM*
+_PSRM. System for business_
